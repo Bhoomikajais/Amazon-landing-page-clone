@@ -1,6 +1,6 @@
 # Amazon-landing-page-clone
 Recreating Amazon's homepage UI using pure HTML and CSS
-# Amazon Homepage Clone
+
 
 ## Overview
 This project is a **replica of the Amazon website homepage** created using **HTML and CSS**. It aims to practice and demonstrate frontend web development skills by recreating the layout, styling, and responsiveness of a popular e-commerce homepage.
@@ -44,5 +44,5 @@ Amazon-Homepage-Clone/
 - Optimize images and improve page load speed.
 
 ## Author
-Your Name  
+Bhoomika Jaiswal
 [GitHub](https://github.com/Bhoomikajais) | [LinkedIn](https://www.linkedin.com/in/bhoomika-jaiswal/) | [Email](bhoomikajaiswal0611@gmail.com)
